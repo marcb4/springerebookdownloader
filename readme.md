@@ -1,4 +1,5 @@
 leech.py speichert alles in urls.txt
+
 Bash Script readurls ausführen, damit nur die ISBNs übrig bleiben
 wird in isbn.txt gespeichert
 test.py ausführen
