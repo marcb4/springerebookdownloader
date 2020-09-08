@@ -1,0 +1,7 @@
+#!/bin/bash
+input="urls.txt"
+while IFS= read -r line
+do
+echo "${line:49}"
+
+done < "$input"
